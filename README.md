@@ -1,4 +1,3 @@
-<h1 align="center">Hi, I'm Syed 👋</h1>
 <h3 align="center">AI/ML Engineer | Building RAG Pipelines & Agentic AI Systems</h3>
 
 <p align="center">
@@ -17,6 +16,7 @@ My work applies these systems to real problems: matching resumes to job descript
 - 🔭 Currently building an MCP server for `react-agent-toolkit`, containerized with Docker and deployed to AWS/Azure
 - 🌱 Learning: MCP, LangChain/LangGraph, model evaluation, PyTorch fundamentals
 - 💼 Open to full-time **AI/ML Engineer**, **Applied AI Engineer** roles
+- ⚡ Fun fact: FUN_FACT_PLACEHOLDER
 
 ---
 
@@ -41,8 +41,8 @@ A three-phase RAG pipeline built on the Claude API, VoyageAI (`voyage-3-large`),
 **[react-agent-toolkit](https://github.com/syedilyasjaweed/react-agent-toolkit)**
 A multi-tool ReAct agent built on Claude's tool-use API, orchestrating resume retrieval, company research, and cover letter generation as callable tools. Currently being converted into an MCP server.
 
-**resume-criteria-rag**
-A query-driven RAG pipeline that retrieves relevant resume bullet points against multiple evaluation criteria in a single batched embedding call — built to evaluate resumes the way a recruiter scans for fit.
+**[uigen](https://github.com/syedilyasjaweed/uigen)**
+A TypeScript project — add a one-line description here of what it does and the stack you used.
 
 ---
 
