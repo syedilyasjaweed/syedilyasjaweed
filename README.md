@@ -1,4 +1,4 @@
-<h3 align="center">AI/ML Engineer | Building RAG Pipelines & Agentic AI Systems</h3>
+<<h3 align="center">AI/ML Engineer | Building RAG Pipelines & Agentic AI Systems</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=syedilyasjaweed&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
@@ -16,7 +16,7 @@ My work applies these systems to real problems: matching resumes to job descript
 - 🔭 Currently building an MCP server for `react-agent-toolkit`, containerized with Docker and deployed to AWS/Azure
 - 🌱 Learning: MCP, LangChain/LangGraph, model evaluation, PyTorch fundamentals
 - 💼 Open to full-time **AI/ML Engineer**, **Applied AI Engineer** roles
-- ⚡ Fun fact: FUN_FACT_PLACEHOLDER
+- ⚡ Fun fact: huge superhero movie fan — always down for a Marvel/DC debate
 
 ---
 
@@ -42,7 +42,7 @@ A three-phase RAG pipeline built on the Claude API, VoyageAI (`voyage-3-large`),
 A multi-tool ReAct agent built on Claude's tool-use API, orchestrating resume retrieval, company research, and cover letter generation as callable tools. Currently being converted into an MCP server.
 
 **[uigen](https://github.com/syedilyasjaweed/uigen)**
-A TypeScript project — add a one-line description here of what it does and the stack you used.
+An AI-powered React component generator with a live sandboxed preview. Describe a UI component in plain English and Claude (via the Vercel AI SDK, tool calling) generates the code in real time — built on Next.js 15, React 19, and an in-memory virtual file system, with a Monaco code editor and Prisma/SQLite persistence for saved projects.
 
 ---
 
