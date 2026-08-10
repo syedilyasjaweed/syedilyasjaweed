@@ -1,22 +1,54 @@
-# Hi, I'm Syed 👋
+<h1 align="center">Hi, I'm Syed 👋</h1>
+<h3 align="center">AI/ML Engineer | Building RAG Pipelines & Agentic AI Systems</h3>
 
-<img src="images/myphoto.jpeg" alt="Syed Ilyas" width="180" align="right" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=syedilyasjaweed&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
+</p>
 
-Software Developer building with Python, REST APIs, and LLM integrations.  
-M.S. in IT Management from Illinois Tech (Dec 2025).
+---
 
-## What I'm working on
+### 🚀 About Me
 
-Currently building applications with the Anthropic API — chatbots, streaming responses, and structured output pipelines. Recently shipped [uigen](https://github.com/syedilyasjaweed/uigen).
+I'm an aspiring **AI/ML Engineer** based in Chicago, IL, with a background in MIS and electronics engineering. I design and ship **retrieval-augmented generation (RAG) pipelines** and **multi-tool AI agents** — not tutorials, but working systems built end-to-end: embeddings → vector search → tool orchestration → generation.
 
-## Tech I work with
+My work applies these systems to real problems: matching resumes to job descriptions, automating company research, and generating tailored application materials — the same techniques used in production AI products.
 
-Python · SQL · REST APIs · PySpark · Git · AI/LLM Integration
+- 🎓 M.S. Information Technology Management (MIS), Illinois Institute of Technology
+- 🔭 Currently building an MCP server for `react-agent-toolkit`, containerized with Docker and deployed to AWS/Azure
+- 🌱 Learning: MCP, LangChain/LangGraph, model evaluation, PyTorch fundamentals
+- 💼 Open to full-time **AI/ML Engineer**, **Applied AI Engineer** roles
 
-## A bit about me
+---
 
-Born in Saudi Arabia and grew up in Jubail, an industrial city on the Persian Gulf coast. Completed my bachelor's in Electronics & Communication Engineering at Osmania University in Hyderabad, India, before moving to Chicago for my master's at Illinois Tech. My first computer was a Dell Pentium 3 — been hooked on building things ever since. Outside of code, I care a lot about family and helping the people around me.
+### 🛠️ Tech Stack
 
-## Reach out
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude%20API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
+  <img src="https://img.shields.io/badge/VoyageAI-4B0082?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
-[LinkedIn](https://www.linkedin.com/in/syedilyasjaweed)
+---
+
+### 📌 Featured Projects
+
+**[ai-job-assistant](https://github.com/syedilyasjaweed/ai-job-assistant)**
+A three-phase RAG pipeline built on the Claude API, VoyageAI (`voyage-3-large`), and Pinecone. Matches resumes to job descriptions via semantic search, runs automated company research with 7-day result caching, and generates tailored cover letters.
+
+**[react-agent-toolkit](https://github.com/syedilyasjaweed/react-agent-toolkit)**
+A multi-tool ReAct agent built on Claude's tool-use API, orchestrating resume retrieval, company research, and cover letter generation as callable tools. Currently being converted into an MCP server.
+
+**resume-criteria-rag**
+A query-driven RAG pipeline that retrieves relevant resume bullet points against multiple evaluation criteria in a single batched embedding call — built to evaluate resumes the way a recruiter scans for fit.
+
+---
+
+### 📫 Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/syedilyasjaweed/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:syedilyasjaweed@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
