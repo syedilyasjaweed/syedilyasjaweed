@@ -13,7 +13,7 @@ I'm an aspiring **AI/ML Engineer** based in Chicago, IL, with a background in MI
 My work applies these systems to real problems: matching resumes to job descriptions, automating company research, and generating tailored application materials — the same techniques used in production AI products.
 
 - 🎓 M.S. Information Technology Management (MIS), Illinois Institute of Technology
-- 🔭 Currently building an MCP server for `react-agent-toolkit`, containerized with Docker and deployed to AWS/Azure
+- - 🔭 Just shipped an MCP server exposing my job-search tools over HTTP with FastAPI — Docker and cloud deployment next
 - 🌱 Learning: MCP, LangChain/LangGraph, model evaluation, PyTorch fundamentals
 - 💼 Open to full-time **AI/ML Engineer**, **Applied AI Engineer** roles
 - ⚡ Fun fact: huge superhero movie fan — always down for a Marvel/DC debate
@@ -35,15 +35,14 @@ My work applies these systems to real problems: matching resumes to job descript
 
 ### 📌 Featured Projects
 
+**[mcp-job-assistant-server](https://github.com/syedilyasjaweed/mcp-job-assistant-server)**
+An MCP server that gives any AI assistant three job-search tools it can call directly — resume matching, live company research, and cover letter drafting. Built with FastMCP, served over HTTP via FastAPI on Uvicorn, and protected by API-key auth and per-IP rate limiting.
+
 **[ai-job-assistant](https://github.com/syedilyasjaweed/ai-job-assistant)**
 A three-phase RAG pipeline built on the Claude API, VoyageAI (`voyage-3-large`), and Pinecone. Matches resumes to job descriptions via semantic search, runs automated company research with 7-day result caching, and generates tailored cover letters.
 
-**[react-agent-toolkit](https://github.com/syedilyasjaweed/react-agent-toolkit)**
-A multi-tool ReAct agent built on Claude's tool-use API, orchestrating resume retrieval, company research, and cover letter generation as callable tools. Currently being converted into an MCP server.
-
 **[uigen](https://github.com/syedilyasjaweed/uigen)**
 An AI-powered React component generator with a live sandboxed preview. Describe a UI component in plain English and Claude (via the Vercel AI SDK, tool calling) generates the code in real time — built on Next.js 15, React 19, and an in-memory virtual file system, with a Monaco code editor and Prisma/SQLite persistence for saved projects.
-
 ---
 
 ### 📫 Let's Connect
