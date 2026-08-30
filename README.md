@@ -36,4 +36,19 @@ My work applies these systems to real problems: matching resumes to job descript
 ### 📌 Featured Projects
 
 **[mcp-job-assistant-server](https://github.com/syedilyasjaweed/mcp-job-assistant-server)**
-An MCP server that gives any AI assistant three job-search tools it can call directly — resume matching, live company research, and cover letter drafting. Built with FastMCP, served over HTTP via FastAPI on Uvicorn, and
+An MCP server that gives any AI assistant three job-search tools it can call directly — resume matching, live company research, and cover letter drafting. Built with FastMCP, served over HTTP via FastAPI on Uvicorn, and protected by API-key auth and per-IP rate limiting.
+
+**[ai-job-assistant](https://github.com/syedilyasjaweed/ai-job-assistant)**
+A three-phase RAG pipeline built on the Claude API, VoyageAI (`voyage-3-large`), and Pinecone. Matches resumes to job descriptions via semantic search, runs automated company research with 7-day result caching, and generates tailored cover letters.
+
+**[uigen](https://github.com/syedilyasjaweed/uigen)**
+An AI-powered React component generator with a live sandboxed preview. Describe a UI component in plain English and Claude (via the Vercel AI SDK, tool calling) generates the code in real time — built on Next.js 15, React 19, and an in-memory virtual file system, with a Monaco code editor and Prisma/SQLite persistence for saved projects.
+
+---
+
+### 📫 Let's Connect
+
+<p align="left">
+<a href="https://www.linkedin.com/in/syedilyasjaweed/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:syedilyasjaweed@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
