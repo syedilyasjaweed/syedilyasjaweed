@@ -13,7 +13,7 @@ I'm an aspiring **AI/ML Engineer** based in Chicago, IL, with a background in MI
 My work applies these systems to real problems: matching resumes to job descriptions, automating company research, and generating tailored application materials — the same techniques used in production AI products.
 
 - 🎓 M.S. Information Technology Management (MIS), Illinois Institute of Technology
-- 🔭 Just shipped an MCP server exposing my job-search tools over HTTP with FastAPI — Docker and cloud deployment next
+- 🔭 Just shipped an MCP server exposing my job-search tools over HTTP with FastAPI — containerized with Docker and deployed live on Azure Container Apps
 - 🌱 Learning: MCP, LangChain/LangGraph, model evaluation, PyTorch fundamentals
 - 💼 Open to full-time **AI/ML Engineer**, **Applied AI Engineer** roles
 - ⚡ Fun fact: huge superhero movie fan — always down for a Marvel/DC debate
@@ -28,6 +28,8 @@ My work applies these systems to real problems: matching resumes to job descript
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
 <img src="https://img.shields.io/badge/VoyageAI-4B0082?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
@@ -36,7 +38,7 @@ My work applies these systems to real problems: matching resumes to job descript
 ### 📌 Featured Projects
 
 **[mcp-job-assistant-server](https://github.com/syedilyasjaweed/mcp-job-assistant-server)**
-An MCP server that gives any AI assistant three job-search tools it can call directly — resume matching, live company research, and cover letter drafting. Built with FastMCP, served over HTTP via FastAPI on Uvicorn, and protected by API-key auth and per-IP rate limiting.
+An MCP server that gives any AI assistant three job-search tools it can call directly — resume matching, live company research, and cover letter drafting. Built with FastMCP, served over HTTP via FastAPI on Uvicorn, protected by API-key auth and rate limiting, and containerized with Docker and deployed on Azure Container Apps.
 
 **[ai-job-assistant](https://github.com/syedilyasjaweed/ai-job-assistant)**
 A three-phase RAG pipeline built on the Claude API, VoyageAI (`voyage-3-large`), and Pinecone. Matches resumes to job descriptions via semantic search, runs automated company research with 7-day result caching, and generates tailored cover letters.
